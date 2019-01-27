@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'coffeeshop.about.apps.AboutConfig',
     
     'django.contrib.admin',
+    'django.contrib.admindocs.urls',
+    
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
